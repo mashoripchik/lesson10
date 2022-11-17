@@ -8,3 +8,4 @@ print(a1)
 a1 = tuple(a1)
 print(a1)
 print('max', max(a1), 'min', min(a1))
+aaa
